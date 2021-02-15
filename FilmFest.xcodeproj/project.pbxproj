@@ -22,6 +22,7 @@
 		071DECF225D930E900E85AAD /* LibraryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071DECF125D930E900E85AAD /* LibraryViewController.swift */; };
 		071DECFB25D93A6000E85AAD /* MovieLibraryDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071DECFA25D93A6000E85AAD /* MovieLibraryDataService.swift */; };
 		071DED0325D93B0700E85AAD /* MovieLibraryDataServiceTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 071DED0225D93B0700E85AAD /* MovieLibraryDataServiceTest.swift */; };
+		071DED4A25DAE08200E85AAD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 071DED4925DAE08200E85AAD /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		071DECF125D930E900E85AAD /* LibraryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryViewController.swift; sourceTree = "<group>"; };
 		071DECFA25D93A6000E85AAD /* MovieLibraryDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieLibraryDataService.swift; sourceTree = "<group>"; };
 		071DED0225D93B0700E85AAD /* MovieLibraryDataServiceTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieLibraryDataServiceTest.swift; sourceTree = "<group>"; };
+		071DED4925DAE08200E85AAD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = FilmFestUITests/README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		071DEC7F25D7881900E85AAD = {
 			isa = PBXGroup;
 			children = (
+				071DED4925DAE08200E85AAD /* README.md */,
 				071DEC8A25D7881900E85AAD /* FilmFest */,
 				071DECA125D7881900E85AAD /* FilmFestTests */,
 				071DECAC25D7881900E85AAD /* FilmFestUITests */,
@@ -286,6 +289,7 @@
 			files = (
 				071DEC9825D7881900E85AAD /* LaunchScreen.storyboard in Resources */,
 				071DEC9525D7881900E85AAD /* Assets.xcassets in Resources */,
+				071DED4A25DAE08200E85AAD /* README.md in Resources */,
 				071DEC9325D7881900E85AAD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
